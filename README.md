@@ -1,4 +1,4 @@
-# Random Number Generator
+# Estrazioni del Lotto
 
 Programma che utilizza un generatore di numeri casuali per simulare l'Estrazione del Lotto
 
